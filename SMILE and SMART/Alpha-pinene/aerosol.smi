@@ -1,8 +1,0 @@
-SMILES Name
-C1=C(C2CC(C1)C2(C)C)C step1
-C12CC(C3(C)C)CC3C1(C)OOO2 step2 
-CC(=O)C(C1(C)C)CC1C[C]O[O] step3
-OOC(=O)CC1CC(C1(C)(C))C(=O)O[O] (a)
-OOC(=O)CC1CC(C1(C)(C))([O])C(=O)C (b)
-OOC(=O)CC1CC(C1(C)(C))C(=O)OOOC2(C(=O)(C))CC(C2(C)(C))CC(=O)OO (c)
-OC(=O)CC1CC(C1(C)(C))C(=O)OC(C)(C)C(CC(=O)(O))CC(=O)(O) (d)
