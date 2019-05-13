@@ -1,7 +1,8 @@
 SMILES Name
-C1=C(C2CC(C1)C2(C)C)C alpha-pinene
+C\1=C(\[C@@H]2C[C@H](C/1)C2(C)C)C alpha-pinene-chiralO
+C1=C(C2CC(C1)C2(C)C)C alpha-pinene-chiralX
 C12CC(C3(C)(C))CC3C1(C)OOO2 Step2
-C12CC(C3(C)(C))CC3C1(C)OOO2 Step3
+CC(=O)C(C1(C)C)CC1C[C]O[O] Step3
 OOC(=O)CC1CC(C1(C)(C))C(=O)O[O] MW358-a
 OOC(=O)CC1CC(C1(C)(C))([O])C(=O)C MW358-b
 OOC(=O)CC1CC(C1(C)(C))C(=O)OOOC2(C(=O)(C))CC(C2(C)(C))CC(=O)OO MW358-c
